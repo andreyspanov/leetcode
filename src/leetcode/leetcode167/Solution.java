@@ -1,11 +1,5 @@
 package leetcode.leetcode167;
 
-/**
- * https://leetcode.com/problems/move-zeroes/
- * <p>
- * Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
- */
-
 class Solution {
 
     public static int[] twoSum(int[] numbers, int target) {
